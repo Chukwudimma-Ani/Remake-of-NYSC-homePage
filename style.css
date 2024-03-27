@@ -28,15 +28,14 @@ H1{
     text-align: center;
    background-color: rgba(26, 121,40,0.9);
    height: 70px;
-   width: 2150px;
+/*    width: 2150px; */
    border: 5PX SOLID maroon;
    border-left: 0px;
    border-bottom: 0PX;
    border-right: 0PX;
    position:absolute;
    left:3px;
-   padding-top: 20px;
-   font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
    font-size: 28px;
    font-weight: 400;
    color: white;
